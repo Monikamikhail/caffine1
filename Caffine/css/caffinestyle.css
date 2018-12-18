@@ -1,0 +1,629 @@
+body {
+    /*    align-content: center;*/
+    /*    height: 800px;*/
+    /*    width: 1000px;*/
+    background-color: white;
+    font-family: Geneva, Tahoma, Verdana, sans-serif;
+    margin: auto;
+
+
+    min-width: 1000px;
+    text-align: justify;
+}
+
+
+
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+    text-decoration-line: none;
+    
+}
+a:hover{
+    color: black;
+     text-decoration-line: none;
+    text-decoration: none;
+    
+}
+
+.button {
+    float:right;
+   
+}
+
+/*---------------------------------text---------------------------------------*/
+
+h1 {
+    font-size: 9em;
+    padding-bottom: 2px;
+    padding-top: 20px;
+    text-align: center;
+
+
+}
+
+
+h2 {
+    list-style-type: none;
+    margin-left: 400px;
+    margin-top: 30px;
+    text-decoration: none;
+
+
+}
+
+
+h3 {
+
+    font-size: 6em;
+    padding-bottom: 2px;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+h4 {
+    float: right;
+    font-size: 2.5em;
+    padding-bottom: 30px;
+    padding-left: 3px;
+    padding-top: 0px;
+    text-align: justify;
+    width: 900px;
+
+}
+
+h5 {
+
+    font-size: 2em;
+    padding-bottom: 2px;
+}
+
+h6 {
+    font-style: italic;
+    padding-bottom: 150px;
+    padding-left: 50px;
+    text-align: left;
+
+}
+
+.about{
+    font-style: italic;
+    padding-bottom: 150px;
+    padding-left: 50px;
+    text-align: center;
+}
+p {
+    font-size: 2.5em;
+    padding-bottom: 30px;
+    padding-left: 90px;
+    padding-top: 0px;
+    text-align: justify;
+    width: 900px;
+}
+
+
+
+.cap {
+
+    font-size: 2.5em;
+    font-style: italic;
+    padding-top: 30px;
+    text-align: justify;
+    width: 900px;
+}
+
+.cap2 {
+    color: black;
+    font-size: 2.5em;
+
+    padding-top: 30px;
+    text-align: justify;
+    width: 900px;
+
+}
+
+.cap3 { 
+
+    font-size: 2.5em;
+    font-style: italic;
+    padding-top: 10px;
+    text-align: justify;
+    width: 900px;
+
+}
+
+
+.cap4 {
+    
+       font-size: 2.5em;
+    font-style: italic;
+    padding-top: 10px;
+    text-align: justify;
+    width: 900px;
+    padding-right: 190px;
+
+}
+    
+
+.heading{
+    font-size: 5em;
+    font-style: oblique;
+    margin-left: 400px;
+    margin-top: 30px;
+    padding-bottom: 100px;
+    padding-top: 500px;
+
+}
+
+.heading5 {
+
+    color: white;
+    font-size: 5em;
+    
+    margin-left: 400px;
+    margin-top: 30px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+
+}
+
+.subhead{
+    padding-left: 1200px;
+    float: inherit;
+}
+
+.contact{ 
+padding-left:250px;
+    padding-right:250px;
+    
+}
+
+/*-----------------------------------end text----------------------------------------*/
+
+
+
+
+/* ---------------------------------------Nav------------------------------------*/
+
+
+nav {
+    background-color: #fff;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+nav ul {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav li {
+    color: #000000;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.form {
+    text-align: center;
+}
+
+.main-nav li a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+.main-nav li a:visited {
+    color: #000000;
+}
+
+
+.main-nav li a:hover {
+    color: #558C89;
+}
+
+
+
+.main-nav a:active {
+    color: darkblue;
+}
+
+/* --------------------------------------End Nav-------------------------------------*/
+
+
+
+/* ------------------------------------------ IMG---------------------------------*/
+
+.pimg {
+
+    padding-left: 550px;
+    padding-top: 60px;
+    padding-bottom: 100px;
+
+}
+
+
+
+
+.pimg2 {
+float:center;
+    width: 100%;
+    height: 100%;
+    padding-top:100px;
+}
+
+.kanye {
+    padding-left:250px;
+    padding-right: 250px;
+    width: 500px;
+    height: 600px;
+}
+.n-img {
+    float: right;
+    height: 1800px;
+    padding-right: 90px;
+    padding-top: 20px;
+    width: 1500px;
+}
+
+.img-fluid {
+    padding-bottom: 250px;
+}
+
+n-img2 {
+    float: right;
+    height: 900px;
+    padding-right: 90px;
+    padding-left: 90px;
+    padding-top: 20px;
+    width: 1500px;
+}
+
+.n-gallery {
+    float: center;
+    height: 1200px;
+    padding-right: 90px;
+    padding-top: 0px;
+    width: 200px;
+}
+
+.n-img3 {
+    float: right;
+    height: 1352px;
+    padding-right: 90px;
+    padding-left: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1500px;
+}
+
+.n-img4 {
+    float: right;
+    height: 1180px;
+    padding-right: 90px;
+    padding-left: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 1650px;
+}
+
+
+.n-img8 {
+    float: right;
+    height: 900px;
+    padding-right: 90px;
+    padding-top: 20px;
+    width: 1500px;
+}
+
+.container1 {
+
+    width: 900px;
+    height: 20px;
+    float: left;
+    padding-left: 250px;
+    padding-bottom: 600px;
+    padding-top: 50px;
+}
+
+.container2 {
+
+    width: 1800px;
+    padding-top: 650px;
+    padding-bottom: 300px;
+
+}
+
+.about {
+
+}
+
+.container3 {
+    width: 1500px;
+    height: 900px;
+    float: left;
+    padding-left: 250px;
+    padding-bottom: 600px;
+    padding-top: 150px;
+}
+
+
+.row {
+
+    padding-left: 250px;
+    float: left;
+
+}
+
+.row2 {
+    float: right;
+    padding-right: 250px;
+}
+
+
+
+/* -------------------------------------End IMG --------------------------------------*/
+
+
+.current-page-item {
+    list-style-type: none;
+    text-decoration: none;
+
+}
+
+.simg {
+    
+    width: 50%;
+    
+}
+
+
+/*
+.video-bg-elem {
+	background: url(/img/head5.jpeg) no-repeat;
+	background-size: cover;
+	bottom: 0;
+	height: auto;
+	min-height: 100%;
+	min-width: 100%;
+	position: fixed;
+	right: 0;
+	width: auto;
+	z-index: -100;
+}
+*/
+
+
+/* ---------------Background -------------------*/
+
+.background-wrap {
+    left: 0;
+    position: relative;
+    top: 0;
+
+
+}
+
+.mybackground2 {
+    background: url(../vid/nyc.mp4) no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    width: 100%;
+    
+}
+
+
+.mybackground3 {
+    background: url(../vid/star.mp4) no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    width: 100%;
+    
+}
+.mybackground4 {
+    background: url(../img/street.jpeg) no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    height: 600px;
+    width: 100%;
+}
+
+.mybackground6 {
+    background: #000000;
+    background-size: cover;
+    color: #ffffff;
+    float: left;
+    height: 1550px;
+    width: 100%;
+
+}
+
+
+.mybackground7 {
+
+    background: url("../vid/cabs.mp4") no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    width: 100%;
+    height: 7090px;
+
+}
+.mybackground7s {
+
+    background: url("../vid/star.mp4") no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    width: 100%;
+    height: 7090px;
+
+}
+.mybackground9 {
+    
+    background: url(../vid/tmichael.mov) no-repeat center center fixed;
+     background-size: cover;
+    color: #ffffff;
+    width: 100%;
+    height: 7090px;
+
+
+}
+/*  ----------------------------------End Background--------------------------*/
+
+
+.button-wrapper {
+    font-size: 9em;
+
+
+}
+
+.container-fluid {
+    height: 900px;
+    min-width: 900px;
+    padding-bottom: 70px;
+    padding-top: 300px;
+
+
+
+}
+
+/*  ----------------------------------S Page--------------------------*/
+
+
+.sback {
+    background-color: white;
+    height: 900px;
+    width: 100%;
+
+}
+
+.sback2 {
+    padding-top: 50px;
+    background-color: white;
+    height: 900px;
+    width: 100%;
+
+}
+
+.shoptext {
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 100px;
+    width: 1000px;
+    height: 100%;
+
+}
+
+.shoptext2 {
+    float: right;
+    padding-left: 20px;
+    padding-top: 100px;
+    width: 1000px;
+    height: 100%;
+
+}
+.shoptext20 {
+    float: right;
+   
+   
+    width: 1000px;
+    height: 100%;
+
+}
+.shopimg {
+    float: right;
+    background-color: white;
+    padding-left: 2px;
+    padding-right: 250px;
+    padding-top: 1px;
+    width: 1000px;
+    height: 100%;
+}
+
+.shopimg5 {
+    float: center;
+    background-color: white;
+    padding-left: 250px;
+    padding-right: 50px;
+    padding-top: 100px;
+  
+    height: 100%;
+}
+
+.shopimg2 {
+    float: left;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 1px;
+    padding-bottom: 100px;
+    width: 1000px;
+    height: 120%;
+}
+
+/*  ---------------------------------End S Page--------------------------*/
+.primary {
+    margin-left: 20px;
+    margin-right: 865px;
+
+}
+
+footer {
+
+    clear: inherit;
+    padding-top: 100px;
+}
+
+.fields {
+
+    padding-top: 40px;
+}
+
+/*  ----------------------Marg Page----------------*/
+
+.marg {
+    
+     height: 900px;
+    width: 100%;
+    padding-top: 90px;
+}
+
+.mtext{
+    clear:both;
+   height: 900px;
+    width: 100%; 
+    padding-left:250px;
+    padding-right:250px;
+    
+}
+
+.mp{
+    
+    padding-left:1px;
+}
+
+.mp2{
+    
+    padding-right:1px;
+}
+
+
+@media only screen and (min-width: 20em) and (max-width: 29em) {
+    h1 {
+        font-size: 2em;
+    }
+}
+
+@media only screen and (min-width: 20em) and (max-width: 29em) {
+    body {
+       max-width: 400px; 
+    }
+    
+ 
+}
